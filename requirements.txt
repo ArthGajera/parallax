@@ -1,0 +1,13 @@
+torch
+diffusers>=0.30
+transformers>=4.44
+accelerate
+safetensors
+gradio>=4.40
+opencv-python-headless
+imageio
+imageio-ffmpeg
+numpy
+pandas
+matplotlib
+pillow
